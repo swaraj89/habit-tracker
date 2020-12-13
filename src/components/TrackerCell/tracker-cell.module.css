@@ -1,0 +1,14 @@
+.TrackerCell{
+    border: 1px solid #000;
+    background-color: white;
+    padding:50px;
+    cursor:pointer;
+}
+
+.Success{
+    background: lightgreen;
+}
+
+.Failure{
+    background: salmon;
+}
